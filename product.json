@@ -1,0 +1,392 @@
+[
+    {
+        "productId": 1,
+        "productName": "CANDY PUNCH DIE",
+        "showProductOnDashbrd": true,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/category_images/Candy-Punch-Die09_04_2018_05_23_54.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "DIES AND PUNCHES",
+        "showProductOnDashbrd": true,
+        "hotProduct": false,
+        "offer": 5,
+        "minOrderQty": 16,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/category_images/Dies-and-Punches09_04_2018_05_18_14.jpg"
+    },
+    {
+        "productId": 3,
+        "productName": "PHARMACEUTICAL PUNCH DIES",
+        "showProductOnDashbrd": true,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 18,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/feature_images/Pharmaceutical-Punch-Dies09_04_2018_05_18_48.jpg"
+    },
+    {
+        "productId": 4,
+        "productName": "AYURVEDIC PUNCH DIE",
+        "showProductOnDashbrd": true,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 19,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/category_images/Ayurvedic-Punch-Die09_04_2018_05_16_45.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "TABLET COMPRESSION TOOLS",
+        "showProductOnDashbrd": true,
+        "hotProduct": false,
+        "offer": 40,
+        "minOrderQty": 20,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/category_images/Tablet-Compression-Tools09_04_2018_05_23_13.jpg"
+    },
+    {
+        "productId": 6,
+        "productName": "TABLET COMPRESSION TOOLS",
+        "showProductOnDashbrd": false,
+        "hotProduct": true,
+        "offer": 0,
+        "minOrderQty": 20,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/category_images/Tablet-Compression-Tools09_04_2018_05_23_13.jpg"
+    },
+    {
+        "productId": 7,
+        "productName": "Star Shape Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Star Shape Die09_06_2017_08_35_14.jpg"
+    },
+    {
+        "productId": 8,
+        "productName": "Mango Shape Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Mango Shape Die09_06_2017_08_42_14.jpg"
+    },
+    {
+        "productId": 9,
+        "productName": "Moon Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Moon Shape09_06_2017_08_43_09.jpg"
+    },
+    {
+        "productId": 10,
+        "productName": "Ice cream in a cone",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Ice cream in a cone09_06_2017_06_44_35.JPG"
+    },
+    {
+        "productId": 11,
+        "productName": "Fish Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Fish Shape09_06_2017_08_42_28.jpg"
+    },
+    {
+        "productId": 12,
+        "productName": "Bottle Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Bottle Shape09_06_2017_08_41_46.jpg"
+    },
+    {
+        "productId": 13,
+        "productName": "Candy Punch Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Candy Punch Die10_07_2017_01_19_16.PNG"
+    },
+    {
+        "productId": 14,
+        "productName": "Candy Punch Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Candy Punch Die10_07_2017_01_19_52.PNG"
+    },
+    {
+        "productId": 15,
+        "productName": "Dies And Punches",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Dies And Punches22_07_2017_08_19_13.jpg"
+    },
+    {
+        "productId": 16,
+        "productName": "Pharmaceutical Punch Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Pharmaceutical Punch Die27_07_2017_02_54_23.jpg"
+    },
+    {
+        "productId": 17,
+        "productName": "Pharmaceutical Punch Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Pharmaceutical Punch Die27_07_2017_02_53_40.jpg"
+    },
+    {
+        "productId": 18,
+        "productName": "Ayurvedic Punch Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Ayurvedic Punch Die10_07_2017_01_06_55.PNG"
+    },
+    {
+        "productId": 19,
+        "productName": "Ayurvedic Punch Die",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Ayurvedic Punch Die22_07_2017_08_18_42.jpg"
+    },
+    {
+        "productId": 20,
+        "productName": "Tablet Compression Tool",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/product_images/Tablet Compression Tool22_07_2017_08_18_06.jpg"
+    },
+    {
+        "productId": 21,
+        "productName": "Bottle Shape-2",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Bottle Shape-211_07_2017_00_45_50.jpg"
+    },
+    {
+        "productId": 22,
+        "productName": "Capsule Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Capsule Shape11_07_2017_00_45_35.jpg"
+    },
+    {
+        "productId": 23,
+        "productName": "Coated Punches",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Coated Punches11_07_2017_00_45_13.jpg"
+    },
+    {
+        "productId": 24,
+        "productName": "Fish Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Fish Shape11_07_2017_00_44_25.jpg"
+    },
+    {
+        "productId": 25,
+        "productName": "Geometric Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Geometric Shape11_07_2017_00_43_48.jpg"
+    },
+    {
+        "productId": 26,
+        "productName": "Hollow Tablet Punches",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Hollow Tablet Punches11_07_2017_00_43_20.jpg"
+    },
+    {
+        "productId": 27,
+        "productName": "Ice Cream Cone Shape - 2",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Ice Cream Cone Shape - 211_07_2017_00_41_54.jpg"
+    },
+    {
+        "productId": 28,
+        "productName": "Ice Cream Cone Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Ice Cream Cone Shape11_07_2017_00_41_37.jpg"
+    },
+    {
+        "productId": 29,
+        "productName": "Multi-Tip",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Multi-Tip11_07_2017_00_39_48.jpg"
+    },
+    {
+        "productId": 30,
+        "productName": "Oval Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Oval Shape11_07_2017_00_39_22.jpg"
+    },
+    {
+        "productId": 31,
+        "productName": "Regular Shapes",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Regular Shapes11_07_2017_00_37_52.jpg"
+    },
+    {
+        "productId": 32,
+        "productName": "Multi-Tip 2",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Multi-Tip 211_07_2017_00_40_21.jpg"
+    },
+    {
+        "productId": 33,
+        "productName": "Round Shape - 2",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Round Shape - 211_07_2017_00_36_53.jpg"
+    },
+    {
+        "productId": 34,
+        "productName": "Round Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Round Shape11_07_2017_00_37_12.jpg"
+    },
+    {
+        "productId": 35,
+        "productName": "Special Shapes -1",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Special Shapes -111_07_2017_00_47_11.jpg"
+    },
+    {
+        "productId": 36,
+        "productName": "Special Shapes -2",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Special Shapes -211_07_2017_00_46_52.jpg"
+    },
+    {
+        "productId": 37,
+        "productName": "Star Shape",
+        "showProductOnDashbrd": false,
+        "hotProduct": false,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "http://www.emmkayindustries.com/uploaded_files/pgal_images/Star Shape11_07_2017_00_34_37.jpg"
+    },
+    {
+        "productId": 38,
+        "productName": "Demo 1",
+        "showProductOnDashbrd": false,
+        "hotProduct": true,
+        "offer": 50,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+        "productId": 39,
+        "productName": "Demo 2",
+        "showProductOnDashbrd": false,
+        "hotProduct": true,
+        "offer": 0,
+        "minOrderQty": 15,
+        "isOpenInfo": false,
+        "imgPath": "https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    }
+]
